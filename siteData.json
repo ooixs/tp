@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "max-tan-kia-lok": "Max Tan Kia Lok",
+        "ooi-xuan-shan": "Ooi Xuan Shan",
+        "sg-tan": "SG Tan",
+        "tan-yu-bin": "Tan Yu Bin",
+        "zee-ming-zan": "Zee Ming Zan"
       },
       "headingKeywords": {}
     },
@@ -107,12 +107,12 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "tuitionbook-user-guide": "TuitionBook User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help: help",
         "adding-a-person-add": "Adding a person: add",
-        "listing-all-persons-list": "Listing all persons: list",
+        "listing-contacts-list": "Listing contacts: list",
         "editing-a-person-edit": "Editing a person: edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person: delete",
@@ -131,15 +131,39 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "tuitionbook": "TuitionBook"
       },
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/mingzan.md",
+      "title": "Ming Zan's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-tuitionbook": "Project: TuitionBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/ooixs.md",
+      "title": "Xuan Shan's Project Portfolio Page",
+      "headings": {
+        "project-tuitionbook": "Project: TuitionBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/origami10004.md",
+      "title": "Origami10004's Project Portfolio Page",
+      "headings": {
+        "project-tuitionbook": "Project: TuitionBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/sg.md",
+      "title": "SG's Project Portfolio Page",
+      "headings": {
+        "project-tuitionbook": "Project: TuitionBook"
       },
       "headingKeywords": {}
     }
